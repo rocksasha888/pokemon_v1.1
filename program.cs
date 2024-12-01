@@ -130,6 +130,9 @@ public class HelloWorld
                             op = user_op();
                             switch (op)
                             {
+                                case 0:
+                                    LoadScreen();
+                                    break;
                                 case 1:
                                     menu();
                                     break;
