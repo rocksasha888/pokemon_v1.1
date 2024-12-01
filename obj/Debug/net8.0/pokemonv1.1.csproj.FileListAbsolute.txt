@@ -1,0 +1,14 @@
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.AssemblyInfoInputs.cache
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.AssemblyInfo.cs
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.csproj.CoreCompileInputs.cache
+c:\Users\AlexanderValyaev\Desktop\pokemonv1.1\bin\Debug\net8.0\pokemonv1.1.exe
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\bin\Debug\net8.0\pokemonv1.1.deps.json
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\bin\Debug\net8.0\pokemonv1.1.runtimeconfig.json
+c:\Users\AlexanderValyaev\Desktop\pokemonv1.1\bin\Debug\net8.0\pokemonv1.1.dll
+c:\Users\AlexanderValyaev\Desktop\pokemonv1.1\bin\Debug\net8.0\pokemonv1.1.pdb
+c:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.dll
+c:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\refint\pokemonv1.1.dll
+c:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.pdb
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\pokemonv1.1.genruntimeconfig.cache
+C:\Users\AlexanderValyaev\Desktop\pokemonv1.1\obj\Debug\net8.0\ref\pokemonv1.1.dll
