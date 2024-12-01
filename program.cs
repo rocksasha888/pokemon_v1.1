@@ -55,7 +55,7 @@ public class HelloWorld
                 {
                     LoadScreen();
                     int rand = rnd.Next(1, 100);
-                    if (rand <= 99)
+                    if (rand <= 25)
                     {
                         for (int k = 0; k < 1; k++)
                         {
